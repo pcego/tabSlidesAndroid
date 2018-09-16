@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">Exemplo</string>
+    <string name="message">Este é um novo fragment</string>
+    <string name="intro_message">
+        <![CDATA[
+            
+            Este é um exemplo para criar um slide com as letras do alfabeto
+            com o intuito de auxiliar a aprendizagem de Libras.
+            
+        
+        ]]>
+    </string>
+</resources>
