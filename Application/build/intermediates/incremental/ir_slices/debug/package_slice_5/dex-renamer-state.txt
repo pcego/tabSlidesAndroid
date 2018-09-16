@@ -1,4 +1,4 @@
-#Sun Sep 16 14:56:27 BRT 2018
-base.0=/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/transforms/dexMerger/debug/24
+#Sun Sep 16 15:21:00 BRT 2018
+base.0=/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/transforms/dexMerger/debug/5
 path.0=classes.dex
 renamed.0=classes.dex

@@ -2,50 +2,78 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="24"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xxhdpi"
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.1.4"
-    timestamp="1537120841947"
+    timestamp="1537122053607"
     token="6384023259698727739"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="96" />
+        duration="637" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="7" />
+        duration="81" />
     <task
         name="verifier"
-        duration="1" />
+        duration="22" />
 
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
     <artifact
         location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/instant-run-apk/debug/Application-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1537116621300"
-        verifier="FULL_BUILD_REQUESTED" >
+        ir-eligibility="COMPATIBLE"
+        timestamp="1537122053607"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/instant-run-apk/debug/Application-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
         <artifact
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
@@ -54,37 +82,19 @@
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
-        <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1537120586570"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -92,15 +102,6 @@
         <artifact
             location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/instant-run-apk/debug/Application-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1537120841947"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/pcego/android-SlidingTabsBasic/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>
