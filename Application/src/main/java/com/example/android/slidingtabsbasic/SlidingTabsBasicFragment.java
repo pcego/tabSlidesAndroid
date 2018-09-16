@@ -120,6 +120,9 @@ public class SlidingTabsBasicFragment extends Fragment {
                 case 6:
                     resource = R.drawable.g;
                     break;
+                case 7:
+                    resource = R.drawable.h;
+                    break;
 
             }
 
